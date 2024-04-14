@@ -1,0 +1,15 @@
+C:\Users\Adarsh\Desktop\WebDev2024\DotNet\DotNetWizardry\DotNetWizardry\A_Generics\bin\Debug\net8.0\A_Generics.exe
+C:\Users\Adarsh\Desktop\WebDev2024\DotNet\DotNetWizardry\DotNetWizardry\A_Generics\bin\Debug\net8.0\A_Generics.deps.json
+C:\Users\Adarsh\Desktop\WebDev2024\DotNet\DotNetWizardry\DotNetWizardry\A_Generics\bin\Debug\net8.0\A_Generics.runtimeconfig.json
+C:\Users\Adarsh\Desktop\WebDev2024\DotNet\DotNetWizardry\DotNetWizardry\A_Generics\bin\Debug\net8.0\A_Generics.dll
+C:\Users\Adarsh\Desktop\WebDev2024\DotNet\DotNetWizardry\DotNetWizardry\A_Generics\bin\Debug\net8.0\A_Generics.pdb
+C:\Users\Adarsh\Desktop\WebDev2024\DotNet\DotNetWizardry\DotNetWizardry\A_Generics\obj\Debug\net8.0\A_Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adarsh\Desktop\WebDev2024\DotNet\DotNetWizardry\DotNetWizardry\A_Generics\obj\Debug\net8.0\A_Generics.AssemblyInfoInputs.cache
+C:\Users\Adarsh\Desktop\WebDev2024\DotNet\DotNetWizardry\DotNetWizardry\A_Generics\obj\Debug\net8.0\A_Generics.AssemblyInfo.cs
+C:\Users\Adarsh\Desktop\WebDev2024\DotNet\DotNetWizardry\DotNetWizardry\A_Generics\obj\Debug\net8.0\A_Generics.csproj.CoreCompileInputs.cache
+C:\Users\Adarsh\Desktop\WebDev2024\DotNet\DotNetWizardry\DotNetWizardry\A_Generics\obj\Debug\net8.0\A_Generics.sourcelink.json
+C:\Users\Adarsh\Desktop\WebDev2024\DotNet\DotNetWizardry\DotNetWizardry\A_Generics\obj\Debug\net8.0\A_Generics.dll
+C:\Users\Adarsh\Desktop\WebDev2024\DotNet\DotNetWizardry\DotNetWizardry\A_Generics\obj\Debug\net8.0\refint\A_Generics.dll
+C:\Users\Adarsh\Desktop\WebDev2024\DotNet\DotNetWizardry\DotNetWizardry\A_Generics\obj\Debug\net8.0\A_Generics.pdb
+C:\Users\Adarsh\Desktop\WebDev2024\DotNet\DotNetWizardry\DotNetWizardry\A_Generics\obj\Debug\net8.0\A_Generics.genruntimeconfig.cache
+C:\Users\Adarsh\Desktop\WebDev2024\DotNet\DotNetWizardry\DotNetWizardry\A_Generics\obj\Debug\net8.0\ref\A_Generics.dll

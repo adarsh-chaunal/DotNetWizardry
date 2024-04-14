@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Adarsh\\Desktop\\WebDev2024\\DotNet\\DotNetWizardry\\DotNetWizardry\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A93022-22BA-408C-89A7-91132579A9E9}|A_Generics\\A_Generics.csproj|c:\\users\\adarsh\\desktop\\webdev2024\\dotnet\\dotnetwizardry\\dotnetwizardry\\a_generics\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A93022-22BA-408C-89A7-91132579A9E9}|A_Generics\\A_Generics.csproj|solutionrelative:a_generics\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A93022-22BA-408C-89A7-91132579A9E9}|A_Generics\\A_Generics.csproj|c:\\users\\adarsh\\desktop\\webdev2024\\dotnet\\dotnetwizardry\\dotnetwizardry\\a_generics\\booklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A93022-22BA-408C-89A7-91132579A9E9}|A_Generics\\A_Generics.csproj|solutionrelative:a_generics\\booklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A93022-22BA-408C-89A7-91132579A9E9}|A_Generics\\A_Generics.csproj|c:\\users\\adarsh\\desktop\\webdev2024\\dotnet\\dotnetwizardry\\dotnetwizardry\\a_generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A93022-22BA-408C-89A7-91132579A9E9}|A_Generics\\A_Generics.csproj|solutionrelative:a_generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A93022-22BA-408C-89A7-91132579A9E9}|A_Generics\\A_Generics.csproj|c:\\users\\adarsh\\desktop\\webdev2024\\dotnet\\dotnetwizardry\\dotnetwizardry\\a_generics\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A93022-22BA-408C-89A7-91132579A9E9}|A_Generics\\A_Generics.csproj|solutionrelative:a_generics\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E24B1E4-56BF-4A4B-816E-E885D052ED47}|Solution Items{8E24B1E4-56BF-4A4B-816E-E885D052ED47}|C:\\Users\\Adarsh\\Desktop\\WebDev2024\\DotNet\\DotNetWizardry\\DotNetWizardry\\global.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8E24B1E4-56BF-4A4B-816E-E885D052ED47}|Solution Items{8E24B1E4-56BF-4A4B-816E-E885D052ED47}|solutionrelative:global.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A93022-22BA-408C-89A7-91132579A9E9}|A_Generics\\A_Generics.csproj|c:\\users\\adarsh\\desktop\\webdev2024\\dotnet\\dotnetwizardry\\dotnetwizardry\\a_generics\\a_generics.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A4A93022-22BA-408C-89A7-91132579A9E9}|A_Generics\\A_Generics.csproj|solutionrelative:a_generics\\a_generics.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Utilities.cs",
+              "DocumentMoniker": "C:\\Users\\Adarsh\\Desktop\\WebDev2024\\DotNet\\DotNetWizardry\\DotNetWizardry\\A_Generics\\Utilities.cs",
+              "RelativeDocumentMoniker": "A_Generics\\Utilities.cs",
+              "ToolTip": "C:\\Users\\Adarsh\\Desktop\\WebDev2024\\DotNet\\DotNetWizardry\\DotNetWizardry\\A_Generics\\Utilities.cs",
+              "RelativeToolTip": "A_Generics\\Utilities.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T18:53:51.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "global.json",
+              "DocumentMoniker": "C:\\Users\\Adarsh\\Desktop\\WebDev2024\\DotNet\\DotNetWizardry\\DotNetWizardry\\global.json",
+              "RelativeDocumentMoniker": "global.json",
+              "ToolTip": "C:\\Users\\Adarsh\\Desktop\\WebDev2024\\DotNet\\DotNetWizardry\\DotNetWizardry\\global.json",
+              "RelativeToolTip": "global.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-14T18:35:09.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "A_Generics",
+              "DocumentMoniker": "C:\\Users\\Adarsh\\Desktop\\WebDev2024\\DotNet\\DotNetWizardry\\DotNetWizardry\\A_Generics\\A_Generics.csproj",
+              "RelativeDocumentMoniker": "A_Generics\\A_Generics.csproj",
+              "ToolTip": "C:\\Users\\Adarsh\\Desktop\\WebDev2024\\DotNet\\DotNetWizardry\\DotNetWizardry\\A_Generics\\A_Generics.csproj",
+              "RelativeToolTip": "A_Generics\\A_Generics.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-14T18:34:22.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookList.cs",
+              "DocumentMoniker": "C:\\Users\\Adarsh\\Desktop\\WebDev2024\\DotNet\\DotNetWizardry\\DotNetWizardry\\A_Generics\\BookList.cs",
+              "RelativeDocumentMoniker": "A_Generics\\BookList.cs",
+              "ToolTip": "C:\\Users\\Adarsh\\Desktop\\WebDev2024\\DotNet\\DotNetWizardry\\DotNetWizardry\\A_Generics\\BookList.cs",
+              "RelativeToolTip": "A_Generics\\BookList.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAowCoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T17:26:04.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "List.cs",
+              "DocumentMoniker": "C:\\Users\\Adarsh\\Desktop\\WebDev2024\\DotNet\\DotNetWizardry\\DotNetWizardry\\A_Generics\\List.cs",
+              "RelativeDocumentMoniker": "A_Generics\\List.cs",
+              "ToolTip": "C:\\Users\\Adarsh\\Desktop\\WebDev2024\\DotNet\\DotNetWizardry\\DotNetWizardry\\A_Generics\\List.cs",
+              "RelativeToolTip": "A_Generics\\List.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T16:54:33.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Adarsh\\Desktop\\WebDev2024\\DotNet\\DotNetWizardry\\DotNetWizardry\\A_Generics\\Program.cs",
+              "RelativeDocumentMoniker": "A_Generics\\Program.cs",
+              "ToolTip": "C:\\Users\\Adarsh\\Desktop\\WebDev2024\\DotNet\\DotNetWizardry\\DotNetWizardry\\A_Generics\\Program.cs",
+              "RelativeToolTip": "A_Generics\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwB8AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T14:20:32.745Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
