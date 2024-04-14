@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Adarsh\\Desktop\\WebDev2024\\DotNet\\DotNetWizardry\\DotNetWizardry\\A_Generics\\A_Generics.csproj": {}
+    "C:\\Users\\Adarsh\\Desktop\\WebDev2024\\DotNet\\DotNetWizardry\\A_Generics\\A_Generics.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Adarsh\\Desktop\\WebDev2024\\DotNet\\DotNetWizardry\\DotNetWizardry\\A_Generics\\A_Generics.csproj": {
+    "C:\\Users\\Adarsh\\Desktop\\WebDev2024\\DotNet\\DotNetWizardry\\A_Generics\\A_Generics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Adarsh\\Desktop\\WebDev2024\\DotNet\\DotNetWizardry\\DotNetWizardry\\A_Generics\\A_Generics.csproj",
+        "projectUniqueName": "C:\\Users\\Adarsh\\Desktop\\WebDev2024\\DotNet\\DotNetWizardry\\A_Generics\\A_Generics.csproj",
         "projectName": "A_Generics",
-        "projectPath": "C:\\Users\\Adarsh\\Desktop\\WebDev2024\\DotNet\\DotNetWizardry\\DotNetWizardry\\A_Generics\\A_Generics.csproj",
+        "projectPath": "C:\\Users\\Adarsh\\Desktop\\WebDev2024\\DotNet\\DotNetWizardry\\A_Generics\\A_Generics.csproj",
         "packagesPath": "C:\\Users\\Adarsh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Adarsh\\Desktop\\WebDev2024\\DotNet\\DotNetWizardry\\DotNetWizardry\\A_Generics\\obj\\",
+        "outputPath": "C:\\Users\\Adarsh\\Desktop\\WebDev2024\\DotNet\\DotNetWizardry\\A_Generics\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Adarsh\\AppData\\Roaming\\NuGet\\NuGet.Config",

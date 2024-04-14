@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Adarsh\\Desktop\\WebDev2024\\DotNet\\DotNetWizardry\\DotNetWizardry\\A_Generics\\A_Generics.csproj",
-      "projectName": "A_Generics",
-      "projectPath": "C:\\Users\\Adarsh\\Desktop\\WebDev2024\\DotNet\\DotNetWizardry\\DotNetWizardry\\A_Generics\\A_Generics.csproj",
+      "projectUniqueName": "C:\\Users\\Adarsh\\Desktop\\WebDev2024\\DotNet\\DotNetWizardry\\B_Delegates\\B_Delegates.csproj",
+      "projectName": "B_Delegates",
+      "projectPath": "C:\\Users\\Adarsh\\Desktop\\WebDev2024\\DotNet\\DotNetWizardry\\B_Delegates\\B_Delegates.csproj",
       "packagesPath": "C:\\Users\\Adarsh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Adarsh\\Desktop\\WebDev2024\\DotNet\\DotNetWizardry\\DotNetWizardry\\A_Generics\\obj\\",
+      "outputPath": "C:\\Users\\Adarsh\\Desktop\\WebDev2024\\DotNet\\DotNetWizardry\\B_Delegates\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Adarsh\\AppData\\Roaming\\NuGet\\NuGet.Config",

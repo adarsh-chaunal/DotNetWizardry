@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Adarsh\\Desktop\\WebDev2024\\DotNet\\DotNetWizardry\\DotNetWizardry\\B_Delegates\\B_Delegates.csproj": {}
+    "C:\\Users\\Adarsh\\Desktop\\WebDev2024\\DotNet\\DotNetWizardry\\B_Delegates\\B_Delegates.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Adarsh\\Desktop\\WebDev2024\\DotNet\\DotNetWizardry\\DotNetWizardry\\B_Delegates\\B_Delegates.csproj": {
+    "C:\\Users\\Adarsh\\Desktop\\WebDev2024\\DotNet\\DotNetWizardry\\B_Delegates\\B_Delegates.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Adarsh\\Desktop\\WebDev2024\\DotNet\\DotNetWizardry\\DotNetWizardry\\B_Delegates\\B_Delegates.csproj",
+        "projectUniqueName": "C:\\Users\\Adarsh\\Desktop\\WebDev2024\\DotNet\\DotNetWizardry\\B_Delegates\\B_Delegates.csproj",
         "projectName": "B_Delegates",
-        "projectPath": "C:\\Users\\Adarsh\\Desktop\\WebDev2024\\DotNet\\DotNetWizardry\\DotNetWizardry\\B_Delegates\\B_Delegates.csproj",
+        "projectPath": "C:\\Users\\Adarsh\\Desktop\\WebDev2024\\DotNet\\DotNetWizardry\\B_Delegates\\B_Delegates.csproj",
         "packagesPath": "C:\\Users\\Adarsh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Adarsh\\Desktop\\WebDev2024\\DotNet\\DotNetWizardry\\DotNetWizardry\\B_Delegates\\obj\\",
+        "outputPath": "C:\\Users\\Adarsh\\Desktop\\WebDev2024\\DotNet\\DotNetWizardry\\B_Delegates\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Adarsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
